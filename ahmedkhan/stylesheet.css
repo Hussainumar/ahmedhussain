@@ -1,16 +1,30 @@
+
+.khan {
+	background-color: pink;
+}
+
 p1 {
-	background-color: yellowgreen;
-	font-size: 15px;
+	background-color: peach;
+	font-family: "Lucida Console", ;
 	text-align: center;
-	border: 0.5;
-}
-p {
-	background-color: blue;
-	border: 1;
-	margin: 10px 10px 10px 10px;
-}
-h1 {
-	color: blue;
+	font-size: 20px;
 
 }
-h2 
+ p {
+	background-color: pink;
+	border: 1;
+	margin: none;
+}
+h1 {
+	color: none;
+	text-align: center;
+	background-color: wheat;
+	margin: 10px .5px 10px .5px;
+
+
+}
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 220%;
+	text-align: center;
+}
